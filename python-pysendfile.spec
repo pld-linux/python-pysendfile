@@ -8,7 +8,7 @@ Summary:	Python 2 interface to sendfile(2)
 Summary(pl.UTF-8):	Interfejs Pythona 2 do wywołania sendfile(2)
 Name:		python-pysendfile
 Version:	2.0.1
-Release:	6
+Release:	7
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/pysendfile/
